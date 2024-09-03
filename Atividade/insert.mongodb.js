@@ -7,14 +7,14 @@ use(database);
 db[collection].insertMany(
     [
         {
-            "cod_aluno":"3",
-            "nome": "Os Robôs da Alvorada",
-            "cpf": "Isaac Asimov",
-            "rg": "Em meio à mais evoluída colônia humana fora da Terra, ocorre um crime sem precedentes: um robô humaniforme é assassinado, colocando em xeque a reputação de um importante estudioso daquele planeta, único suspeito do crime.",
-            "telefone_aluno":"99190-3480",
+            "cod_aluno": "3",
+            "nome": "Bruno Ferreira da Silva",
+            "cpf": "18537292472",
+            "rg": "359353852",
+            "telefone_aluno": "99190-3480",
             "telefone_responsável": "99190-3480",
-            "email":"Ficção Científica",
-            "data_nascimento": ""
+            "email": "bruno2002@gmail.com",
+            "data_nascimento": "10/10/2002"
         },
     ]
 );
