@@ -14,4 +14,10 @@ O propósito dessa atividade é exercitar os conceitos abordados em aulas. A tab
 |email| VARCHAR | 
 |data_nascimento| TIMESTAMP(100) |
 
-Após isso, os scripts encontrados em ```/Atividade``` foram criados para realizar as operações de CRUD em conexão com o Atlas MongoDB for VSCode.
+Após isso, os scripts encontrados em ```Atividade``` foram criados para realizar as operações de CRUD em conexão com o Atlas MongoDB for VSCode.
+
+Exercício A - Inserir 10 alunos = ```insert.mongodb.js```\
+Exercício B - Listar todos os alunos = ```list-all.mongodb.js```\
+Exercício C - Listar um aluno pelo CPF excluindo o campo cod_aluno = ```list-by-cpf.mongodb.js```\
+Exercício D - Alterar o Nome, RG e CPF de UM aluno = ```update.mongodb.js```\
+Exercício E - Excluir um aluno = ```delete.mongodb.js```
