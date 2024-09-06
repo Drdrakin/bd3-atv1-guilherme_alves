@@ -12,7 +12,7 @@ O propósito dessa atividade é exercitar os conceitos abordados em aulas. A tab
 |telefone_aluno| VARCHAR |
 |telefone_responsável| VARCHAR |
 |email| VARCHAR | 
-|data_nascimento| TIMESTAMP(100) |
+|data_nascimento| TIMESTAMP |
 
 Após isso, os scripts encontrados em ```Atividade``` foram criados para realizar as operações de CRUD em conexão com o Atlas MongoDB for VSCode.
 
