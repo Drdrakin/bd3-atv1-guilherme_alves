@@ -1,4 +1,4 @@
-# Primeira atividade de banco de dados
+# Primeira atividade de banco de dados 🎲
 
 O propósito dessa atividade é exercitar os conceitos abordados em aulas. A tabela sql com os seguintes campos foi traduzida para NoSQL:
 
